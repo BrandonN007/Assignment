@@ -1,0 +1,5 @@
+CONVERT A GIVEN NUMBER FROM CELSIUS TO FAHRENHEIT
+Step 1: Get the value of the temperature in Celsius and label it as C
+Step 2: Set Fahrenheit to (C*9/5)+32
+Step 3: Print Fahrenheit
+Step 4: Stop

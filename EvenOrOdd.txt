@@ -1,0 +1,8 @@
+DECIDE IF A GIVEN NUMBER IS EVEN OR ODD
+Step 1: Get the value of a number and label it as X
+Step 2: To verify if X is even or odd, divide it by 2
+Step 3: If (X/2 == int), then X is even
+Step 4: else
+Step 5: If (X/2 == double), then X is odd
+Step 6: Print even or odd
+Step 7: Stop

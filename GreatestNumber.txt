@@ -1,0 +1,14 @@
+An algorithm that selects the largest value in a list of numbers
+
+Step 1: set first
+Step 2: set second
+Step 3: set third
+Step 4: set i = 0
+Step 5: set Afirst, Asecond and Athird
+STep 6: While(Position = i+1)
+Step 7: If Asecond>Afirst, then compare Athird with Asecond
+Step 8: else 
+Step 9: If Asecond<Afirst, then compare Athird with Afirst
+Step 10: End of loop
+Step 11: Print final number
+Step 12: Stop
